@@ -2,6 +2,5 @@
 
 - 🔭 I’m currently working on my movie website
 - 🌱 I’m currently learning Laravel
-- 💬 Ask me about web developing
+- 👀 I’m interested in Laravel, Livewire 
 - 📫 How to reach me: iamsajjadkhalafi@gmail.com
-- ⚡ Fun fact: i love movies
