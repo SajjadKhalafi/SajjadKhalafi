@@ -1,7 +1,7 @@
 # Hi there 👋 i'm Sajjad
 
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
+[![Website](https://img.shields.io/website?label=sajjadkhalafi.ir&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://sajjadkhalafi.ir)
+[![Twitter Follow](https://img.shields.io/twitter/follow/KhalafiSajjad?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FKhalafiSajjad&screen_name=KhalafiSajjad)
 
 ### I'm a junior Backend Developer
 - 🔭 I’m currently working on my movie website
@@ -14,42 +14,29 @@
 [![website](./img/globe-light.svg)](https://sajjadkhalafi.ir#gh-light-mode-only)
 [![website](./img/globe-dark.svg)](https://sajjadkhalafi.ir#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/twitter-light.svg)](https://twitter.com/codestackr#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/codestackr#gh-dark-mode-only)
+[![website](./img/twitter-light.svg)](https://twitter.com/KhalafiSajjad#gh-light-mode-only)
+[![website](./img/twitter-dark.svg)](https://twitter.com/KhalafiSajjad#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://linkedin.com/in/codeSTACKr#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/codeSTACKr#gh-dark-mode-only)
+[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/sajjad-khalafi-036257208#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/sajjad-khalafi-036257208#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://instagram.com/codeSTACKr#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://instagram.com/codeSTACKr#gh-dark-mode-only)
+[![website](./img/instagram-light.svg)](https://instagram.com/iam.__.sajjad#gh-light-mode-only)
+[![website](./img/instagram-dark.svg)](https://instagram.com/iam.__.sajjad#gh-dark-mode-only)
 
 ### Languages and Tools:
 
-[<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />][webdevplaylist]
-[<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />][cssplaylist]
-[<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />][jsplaylist]
-[<img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />][webdevplaylist]
-[<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />][webdevplaylist]
-[<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />](https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt#gh-dark-mode-only)
-[<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png" style="padding-right:10px;" />](https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt#gh-light-mode-only)
-[<img align="left" alt="Terminal" width="26px" src="./img/terminal-light.svg" />](https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt#gh-light-mode-only)
-[<img align="left" alt="Terminal" width="26px" src="./img/terminal-dark.svg" />](https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt#gh-dark-mode-only)
+<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
+<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
+<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
+<img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Terminal" width="26px" src="./img/terminal-light.svg" />
+<img align="left" alt="Terminal" width="26px" src="./img/terminal-dark.svg" />
 
 <br />
 <br />
 
 ---
-
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
-  
-<!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/SajjadKhalafi/gentree-generator/pull/1) in [codeSTACKr/gentree-generator](https://github.com/codeSTACKr/gentree-generator)
-2. 💪 Opened PR [#1](https://github.com/SajjadKhalafi/gentree-generator/pull/1) in [codeSTACKr/gentree-generator](https://github.com/codeSTACKr/gentree-generator)
-3. 💪 Opened PR [#1](https://github.com/studio-demo/cloudcash-sass/pull/1) in [studio-demo/cloudcash-sass](https://github.com/studio-demo/cloudcash-sass)
-4. 🎉 Merged PR [#1](https://github.com/codeSTACKr/superhero-extensions/pull/1) in [codeSTACKr/superhero-extensions](https://github.com/codeSTACKr/superhero-extensions)
-5. 🎉 Merged PR [#120](https://github.com/codeSTACKr/minter-dapp/pull/120) in [codeSTACKr/minter-dapp](https://github.com/codeSTACKr/minter-dapp)
-<!--END_SECTION:activity-->
 
 </details>
 
