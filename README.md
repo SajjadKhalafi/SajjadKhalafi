@@ -1,7 +1,6 @@
 # Hi there 👋 i'm Sajjad
 
 [![Website](https://img.shields.io/website?label=sajjadkhalafi.ir&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://sajjadkhalafi.ir)
-[![Twitter Follow](https://img.shields.io/twitter/follow/KhalafiSajjad?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FKhalafiSajjad&screen_name=KhalafiSajjad)
 
 ### I'm a junior Backend Developer
 - 🔭 I’m currently working on my movie website
