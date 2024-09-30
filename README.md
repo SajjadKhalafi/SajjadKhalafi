@@ -1,12 +1,8 @@
 # Hi there 👋 i'm Sajjad
 
-[![Website](https://img.shields.io/website?label=sajjadkhalafi.ir&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://sajjadkhalafi.ir)
-
 ### I'm a junior Backend Developer
 - 🔭 I’m currently working on my movie website
 - 🌱 I’m currently learning Everything 🤣
-- 🥅 2023 Goals: Doing some projects with Laravel and learning JavaScript
-- ⚡ Fun fact: I wanna learn to play the guitar
 
 ### Connect with me:
 
