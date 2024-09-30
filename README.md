@@ -5,10 +5,6 @@
 - 🌱 I’m currently learning Everything 🤣
 
 ### Connect with me:
-
-[![website](./img/globe-light.svg)](https://sajjadkhalafi.ir#gh-light-mode-only)
-[![website](./img/globe-dark.svg)](https://sajjadkhalafi.ir#gh-dark-mode-only)
-&nbsp;&nbsp;
 [![website](./img/twitter-light.svg)](https://twitter.com/KhalafiSajjad#gh-light-mode-only)
 [![website](./img/twitter-dark.svg)](https://twitter.com/KhalafiSajjad#gh-dark-mode-only)
 &nbsp;&nbsp;
