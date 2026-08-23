@@ -102,8 +102,8 @@ final class SajjadKhalafi implements BackendDeveloper
 ## GitHub Stats
 
 <p align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=SajjadKhalafi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SajjadKhalafi&layout=compact&theme=tokyonight&hide_border=true" />
+<img src="https://img.shields.io/github/followers/SajjadKhalafi?label=Followers&style=flat-square&color=0ea5e9&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FSajjadKhalafi&label=Public%20Repos&query=%24.public_repos&color=0ea5e9&style=flat-square&logo=github&logoColor=white" />
 </p>
 
 <br />
