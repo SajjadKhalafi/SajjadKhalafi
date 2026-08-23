@@ -47,7 +47,6 @@ final class SajjadKhalafi implements BackendDeveloper
 - **REST API design** — versioned, documented, built to be consumed by others
 - **Laravel at scale** — queues, caching, events, and service-oriented architecture
 - **WHMCS development** — custom modules, billing automation, third-party integrations
-- **Video streaming infrastructure** — HLS / M3U8 pipelines
 - **Linux & server administration** — deployment, hardening, performance tuning
 - **Database design** — schema modeling, indexing, query optimization
 
@@ -84,30 +83,28 @@ final class SajjadKhalafi implements BackendDeveloper
 
 <br />
 
+## Selected Work
+
+<table>
+<tr><th align="left">Project</th><th align="left">Type</th><th align="left">Description</th></tr>
+<tr><td><b>Ronakfilm.com</b></td><td>Live product</td><td>Video streaming platform</td></tr>
+<tr><td><b>CRM · ronak.group</b></td><td>Internal tool</td><td>Internal CRM system</td></tr>
+<tr><td><b>Hosting Panel · ronakhost.com</b></td><td>Live product</td><td>Hosting control panel</td></tr>
+<tr><td><b>WHMCS API Module</b></td><td>Backend module</td><td>Custom WHMCS API integration</td></tr>
+<tr><td><b>WHMCS Hooks</b></td><td>Backend module</td><td>Custom WHMCS event hooks for billing automation</td></tr>
+<tr><td><b>Analytics Reporting</b></td><td>Internal tool</td><td>Generates internal analytics reports</td></tr>
+</table>
+
+<sub>Client and internal work — closed-source, no public repositories.</sub>
+
+<br />
+
 ## GitHub Stats
 
 <p align="center">
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=SajjadKhalafi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SajjadKhalafi&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SajjadKhalafi&theme=tokyonight&hide_border=true" />
-</p>
-
-<details>
-<summary><b>Achievements & activity</b></summary>
-<br />
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=SajjadKhalafi&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15&column=4" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SajjadKhalafi&theme=tokyo-night&hide_border=true" />
-</p>
-
-</details>
 
 <br />
 
@@ -146,10 +143,6 @@ final class SajjadKhalafi implements BackendDeveloper
 </a>
 
 <br /><br />
-
-<img src="https://raw.githubusercontent.com/SajjadKhalafi/SajjadKhalafi/output/github-contribution-grid-snake-dark.svg" />
-
-<br />
 
 > *"Programs must be written for people to read, and only incidentally for machines to execute."*
 > — **Harold Abelson**
