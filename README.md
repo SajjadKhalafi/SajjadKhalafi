@@ -99,15 +99,6 @@ final class SajjadKhalafi implements BackendDeveloper
 
 <br />
 
-## GitHub Stats
-
-<p align="center">
-<img src="https://img.shields.io/github/followers/SajjadKhalafi?label=Followers&style=flat-square&color=0ea5e9&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FSajjadKhalafi&label=Public%20Repos&query=%24.public_repos&color=0ea5e9&style=flat-square&logo=github&logoColor=white" />
-</p>
-
-<br />
-
 ## Currently
 
 - Building scalable Laravel applications and high-throughput REST APIs
